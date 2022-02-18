@@ -75,4 +75,7 @@ To install pysat library, simply follow the below command :
   ```
 If the system throws any erro i would recommend you to follow the installation guide [here](https://pysathq.github.io/installation.html#installation)
 
+### Colaborators
+1. Vartika
+2. Deepak
 ### THANK YOU
